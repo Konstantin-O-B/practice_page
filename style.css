@@ -538,7 +538,7 @@ br {
 
 #menuBurg.menu-burger-open span:nth-child(1) {
     width: 27px;
-    transform: translateX(-4px) translateY(8px) rotate(45deg);
+    transform: translateX(-4.5px) translateY(8px) rotate(45deg);
     
 }
 
@@ -550,7 +550,7 @@ br {
 
 #menuBurg.menu-burger-open span:nth-child(3) {
     width: 27px;
-    transform: translateX(-4px) translateY(-8px) rotate(-45deg);
+    transform: translateX(-4.5px) translateY(-8px) rotate(-45deg);
 
 }
 
