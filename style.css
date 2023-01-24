@@ -427,7 +427,7 @@ br {
 }
 
 .drop-menu__list a:focus {
-    background: url(/highlight/highlight.svg) no-repeat;
+    background: url(highlight/highlight.svg) no-repeat;
     background-position: left;
     opacity: 0.5;
 }
@@ -603,31 +603,31 @@ br {
 
 
 #call {
-    background-image: url(/ic-call/call.svg);
+    background-image: url(ic-call/call.svg);
 }
 
 #chat {
-    background-image: url(/ic-chat/chat.svg);
+    background-image: url(ic-chat/chat.svg);
 }
 
 #profile {
-    background-image: url(/ic-profile/profile.svg);
+    background-image: url(ic-profile/profile.svg);
 }
 
 #repair {
-    background-image: url(/ic-repair/repair.svg);
+    background-image: url(ic-repair/repair.svg);
     background-repeat: no-repeat;
     background-position: right;
 }
 
 #checkstatus {
-    background-image: url(/ic-checkstatus/checkstatus.svg);
+    background-image: url(ic-checkstatus/checkstatus.svg);
     background-repeat: no-repeat;
     background-position: right;
 }
 
 #search {
-    background-image: url(/ic-search/search.svg);
+    background-image: url(ic-search/search.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -635,7 +635,7 @@ br {
 /*Логотип css*/
 
 .header__menu_logo {
-    background-image: url(/logo/Group.svg);
+    background-image: url(logo/Group.svg);
     background-repeat: no-repeat;
     width: 98px;
     height: 52px;
