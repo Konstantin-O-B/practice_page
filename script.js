@@ -17,12 +17,7 @@ burger.addEventListener('click', function(evt) {
     
 });
 
-window.addEventListener('click', function(){
-    if (dropMenu.classList.contains('visibility') && dropMenu.classList.contains('menu-burger-open')) {
-        dropMenu.classList.remove('visibility');
-        dropMenu.classList.remove('menu-burger-open');
-    }
-});
+
 
 
 
